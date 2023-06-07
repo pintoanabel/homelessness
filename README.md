@@ -1,5 +1,5 @@
 # homelessness
-The purpose of this repository is to explore the relationships between housing market factors and homelessness in the Seattle King County Area.
+The purpose of this repository is to explore the relationships between housing market factors and homelessness in the Seattle King County Area. Various regression models were used to analyze this relationship. None of the models had R^2 or MSE values that indicated the variables were significant predictors.
 
 # Data
 The dataset comes from the U.S. Department of Housing and Urban Development (HUD), which contains various housing market factors as well as homelessness data.
