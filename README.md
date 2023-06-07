@@ -13,3 +13,8 @@ variables were renamed to have informative names
 total demographic counts were converted to rates
 
 the notebook where the data was cleaned can be found in this repo: https://github.com/pintoanabel/homelessness/blob/main/Pinto_Prep_Homelessness_Data_Preparation.ipynb
+
+## Data Analysis
+a train test split was generated, regression models of the all the selected predictors were generated, Lasso and ridge regressions for the full model were generated as well, in addition to an XGBoost model. Data on city/urba, suburban, and rural areas were added back in, and lasso regressions were run.
+
+The notebook in this repo that contains the steps for data analysis can be found here: https://github.com/pintoanabel/homelessness/blob/main/Pinto_Analysis_Homelessness_Analysis_Template.ipynb
